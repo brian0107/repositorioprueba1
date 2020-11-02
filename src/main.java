@@ -11,7 +11,7 @@ DecimalFormat dc = new DecimalFormat("0.00");
         do{
         System.out.println("Dame un numero cabron");
         n1 = sc.nextDouble();
-        System.out.println("Dame un segundo numero cabron");
+        System.out.println("Dame un segundo numero Cabron");
         n2 = sc.nextDouble();
 
 
